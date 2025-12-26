@@ -1,0 +1,45 @@
+{
+    "top_research_areas": [
+        {
+            "research_area": "Deep learning for medical imaging",
+            "count": 142
+        },
+        {
+            "research_area": "Political Science",
+            "count": 47
+        },
+        {
+            "research_area": "Bioinformatics",
+            "count": 39
+        },
+        {
+            "research_area": "machine learning",
+            "count": 34
+        },
+        {
+            "research_area": "Computational Biology",
+            "count": 30
+        },
+        {
+            "research_area": "Cellular Info",
+            "count": 18
+        },
+        {
+            "research_area": "Mobility",
+            "count": 18
+        },
+        {
+            "research_area": "artificial intelligence",
+            "count": 17
+        },
+        {
+            "research_area": "Computational biology",
+            "count": 12
+        },
+        {
+            "research_area": "computational biology",
+            "count": 11
+        }
+    ],
+    "total_returned": 10
+}
