@@ -1,0 +1,65 @@
+{
+    "popular_professors": [
+        {
+            "professor_id": "cee804dba39e4020406acf0f43517649",
+            "professor_name": "Stephen Elstub",
+            "university": "Newcastle University",
+            "count": 27
+        },
+        {
+            "professor_id": "7d168a9c5419354a86321e6566bc31ee",
+            "professor_name": "Rosario Aguilar",
+            "university": "Newcastle University",
+            "count": 27
+        },
+        {
+            "professor_id": "479863d25483ebf0c1c2093acc71e5e2",
+            "professor_name": "Anthony Bonner",
+            "university": "University of Toronto",
+            "count": 10
+        },
+        {
+            "professor_id": "67f03568b47c0b2e2bd32a4699daffc4",
+            "professor_name": "Harini Veeraraghavan",
+            "university": "Cornell University",
+            "count": 10
+        },
+        {
+            "professor_id": "560cae78b647459f4aeceb2514a4df24",
+            "professor_name": "Yalda Mohsenzadeh",
+            "university": "Western University",
+            "count": 10
+        },
+        {
+            "professor_id": "6a78e7964143734107904266a0f1856e",
+            "professor_name": "Gary Mooney",
+            "university": "The University of Melbourne",
+            "count": 9
+        },
+        {
+            "professor_id": "5ebe397c674b740208f34e50975d260c",
+            "professor_name": "Tony McNulty",
+            "university": "Queen Mary University of London (QMUL)",
+            "count": 9
+        },
+        {
+            "professor_id": "d1bc851267e51603211e1ab4ea61f757",
+            "professor_name": "Dillon",
+            "university": "University of Toronto",
+            "count": 9
+        },
+        {
+            "professor_id": "ccb6a2b9182fcdce39b4b63abae7a92f",
+            "professor_name": "David R. McMillen",
+            "university": "University of Toronto",
+            "count": 9
+        },
+        {
+            "professor_id": "4b85f979c62a96795782eb5ab9b66da0",
+            "professor_name": "Felix Heide",
+            "university": "Princeton University",
+            "count": 9
+        }
+    ],
+    "total_returned": 10
+}
