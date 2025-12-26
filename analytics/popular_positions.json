@@ -1,0 +1,65 @@
+{
+    "popular_positions": [
+        {
+            "position_id": "504d017e99d50f6e",
+            "position_title": "PhD Position in Computer Science (Data Mining and Machine Learning)",
+            "organization": null,
+            "count": 13
+        },
+        {
+            "position_id": "1866164d4300865e",
+            "position_title": "Faculty Positions at the Center for Machine Learning Research (CMLR), Peking University",
+            "organization": null,
+            "count": 11
+        },
+        {
+            "position_id": "https://www.findaphd.com/phds/project/deep-learning-for-computational-imaging/?p188307",
+            "position_title": "Deep learning for Computational Imaging",
+            "organization": "University of Bristol",
+            "count": 11
+        },
+        {
+            "position_id": "dd9cc171c403735c",
+            "position_title": "Shape the future of sustainability with a PhD at the world&#8217;s #1 university for Built Environment studies",
+            "organization": "University College London",
+            "count": 7
+        },
+        {
+            "position_id": "a1d4279324f263ef",
+            "position_title": "Fully-funded PhD studentships with the CROCUS NERC Doctoral Landscape Award",
+            "organization": "Institute of Zoology",
+            "count": 6
+        },
+        {
+            "position_id": "f5b95a86ad4cdc17",
+            "position_title": "Foundations of deep learning for scalable computational imaging",
+            "organization": "Heriot-Watt University",
+            "count": 6
+        },
+        {
+            "position_id": "495f2713cc26d7af",
+            "position_title": "Computational imaging for democratisation of MRI in medicine",
+            "organization": "Heriot-Watt University",
+            "count": 6
+        },
+        {
+            "position_id": "ab24abc8b00aaee5",
+            "position_title": "Deep learning for Computational Imaging",
+            "organization": "University of Bristol",
+            "count": 6
+        },
+        {
+            "position_id": "325b880d0f2f9541",
+            "position_title": "Deep equilibrium machine learning models for the efficient reconstruction of X-ray tomographic images.",
+            "organization": "University of Southampton",
+            "count": 6
+        },
+        {
+            "position_id": "537b54081dd4777f",
+            "position_title": "Fully-funded PhD studentships with the CROCUS NERC Doctoral Landscape Award",
+            "organization": "Swansea University",
+            "count": 5
+        }
+    ],
+    "total_returned": 10
+}
